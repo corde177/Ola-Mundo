@@ -1,7 +1,7 @@
 # Olá, Mundo!
 
  Primeiro repositorio  do  curso Git e GitHub
-
- Repositório criado durante uma aula ao vivo.
+ 
+Olá, mundo! este é o meu primeiro repositório, onde fiz uma página estatica, com o objectivo de aprende Git e GitHub.
  
  Essa linha eu alterei directamente do site
